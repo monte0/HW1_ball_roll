@@ -2014,7 +2014,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c4f89725b3534a646944d1adf4261960, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 10
+  speed: 8
   CountText: {fileID: 709904395}
   WinText: {fileID: 613139469}
   rb: {fileID: 2050035487}
